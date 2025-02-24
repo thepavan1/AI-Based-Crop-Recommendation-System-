@@ -1,6 +1,0 @@
-crop_name,temperature,rainfall,soil_ph,market_demand
-Wheat,20,100,6.5,9
-Rice,25,200,6.0,8
-Maize,30,150,5.5,7
-Barley,15,120,6.0,6
-Soybean,22,180,6.5,7
