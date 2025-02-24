@@ -8,7 +8,7 @@ import numpy as np
 # Load dataset
 @st.cache
 def load_data():
-    data = pd.read_csv("crop_data2.csv")
+    data = pd.read_csv("crop_data.csv")
     return data
 
 # Preprocess dataset
